@@ -6,7 +6,7 @@ body {
 	font-size: 18px;
 	color: #777;
 	line-height: 150%;
-	margin: 0 auto;
+	margin: auto;
 }
 
 header {
@@ -21,21 +21,24 @@ nav {
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
-section{
-	width: 495px;
-	width: 55%;
-	padding: 10px;
-	margin-top: auto;
-}
 
 aside {
 	background: #ebebeb;
+	width: 44%;
+	padding-bottom: 30px;
+	float: right;
+}
+
+section{
 	width: 495px;
+	padding: 10px;
+	margin-top: auto;
 }
 
 footer {
 	background: #ebebeb;
 	padding: 10px;
+	margin-top: 20px;
 	margin-bottom: 100px;
 }
 
